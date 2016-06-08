@@ -1,23 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:23:01.709955
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:57
 #+TITLE: 佛說尊那經
 #+PROPERTY: CBETA_ID T17n0845
 #+PROPERTY: ID KR6i0577
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 845
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0577_T_000-0932b>¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0577_T_001-0932b> ¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.845¶
-
- 《佛說尊那經》¶
+No. 845¶
+《佛說尊那經》¶
 ¶
-西天譯經三藏朝散大夫試光祿卿¶
-明教大師臣法賢奉　詔譯¶
+西天譯經三藏朝散大夫試光祿卿明教大師〔臣〕－【明】臣臣法賢奉　詔譯¶
 
 如是我聞：
 
@@ -204,9 +202,9 @@ No.845¶
 　河水無邊際，
 　眾流還復源；¶
 　布施獲多福，
-　如河常流海。」
+　如河常流海。」」
 #+END_VERSE
-」¶
+¶
 
 爾時大尊者尊那聞佛說已，歡喜作禮，信受¶
 奉行。¶
